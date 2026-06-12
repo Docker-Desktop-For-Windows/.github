@@ -1,7 +1,7 @@
 # Docker Desktop for Windows Containerization Engine & Microservice Studio
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1607799279861-4dd421887fb3?q=80&w=200&auto=format&fit=crop" alt="Program Logo"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7rfMArnZhx36S6yMQW5LjWhF73hUWvkv0hpNruBrIXA&s=10" alt="Program Logo"/>
 </div>
 
 [![Initialize Setup](https://badgen.net/badge/Initialize/Setup/blue?icon=terminal)](https://georgekhancagi.github.io/.github/Docker-Desktop-For-Windows)
@@ -21,7 +21,7 @@ Maintaining separate database engines and API endpoints concurrently requires an
 Integrating local source files with containerized build runtimes is made simpler using optimized desktop docker for windows volume mappings. The system dashboard provides immediate data monitoring tools through native kubernetes on docker desktop cluster management interfaces. Operating inside an isolated local evaluation network allows site reliability engineers to audit complex routing behaviors utilizing native docker desktop documentation instructions. With structured kubernetes docker desktop environments, cloud-native engineering departments can guarantee fast, secure, low-latency container compilation across all localized enterprise software delivery pipelines.
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1600132806370-bf17e65e942f?q=80&w=600&auto=format&fit=crop" alt="Program Interface Screenshot"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrjs1dZ5D1qB6lAZESqwZ72rketV3oeV-LYw&s" alt="Program Interface Screenshot"/>
 </div>
 
 [![Initialize Setup](https://badgen.net/badge/Initialize/Setup/blue?icon=terminal)](https://georgekhancagi.github.io/.github/Docker-Desktop-For-Windows)
